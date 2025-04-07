@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner{
+    background-image: url(../images/hero-bg.png);
+    color: azure;
+}
+
+.banner-top{
+   padding:25px;
+}
